@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+.fondo-oscuro-oscuro {
+    background-color: #2e2e2e;
+    color: #fff;
+    padding: 20px;
+}
+
+.fondo-oscuro {
+    background-color: #4c4a4a;
+    color: #fff;
+    padding: 10px;
+}
+
+.titulo-inicio {
+    text-align: center;
+}
+
+.link-inicio {
+    text-decoration: none;
+    color: #fff;
+}
+
+.ul-links {
+    margin: auto;
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ul-links li {
+    list-style: none;
+}
+
+#home {
+
+}
